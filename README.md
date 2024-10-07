@@ -6,45 +6,6 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=AnandDevarajan_Smart-Grace-Mark-Calculator&metric=alert_status)](https://sonarcloud.io/dashboard?id=AnandDevarajan_Smart-Grace-Mark-Calculator) [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=AnandDevarajan_Smart-Grace-Mark-Calculator&metric=bugs)](https://sonarcloud.io/dashboard?id=AnandDevarajan_Smart-Grace-Mark-Calculator) [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=AnandDevarajan_Smart-Grace-Mark-Calculator&metric=security_rating)](https://sonarcloud.io/dashboard?id=AnandDevarajan_Smart-Grace-Mark-Calculator) [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=AnandDevarajan_Smart-Grace-Mark-Calculator&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=AnandDevarajan_Smart-Grace-Mark-Calculator)[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=AnandDevarajan_Smart-Grace-Mark-Calculator&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=AnandDevarajan_Smart-Grace-Mark-Calculator) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=AnandDevarajan_Smart-Grace-Mark-Calculator&metric=ncloc)](https://sonarcloud.io/dashboard?id=AnandDevarajan_Smart-Grace-Mark-Calculator)
 
 
-### Student Profile Page
-
-![Student Profile Page](/resetdb/Student_profile.png)
-
-### Faculty Mark Allocation Page
-
-![Student Profile Page](/resetdb/Faculty_Coursemark_allocation.png)
-
-### Student List for class Advisor
-
-![Student Profile Page](/resetdb/Class_Advisor.png)
-
-### Grade change after Grace Mark
-
-![Student Profile Page](/resetdb/After_adding_gracemark.png)
-
-### Admin Profile Page
-
-![Student Profile Page](/resetdb/Admin_profile.png)
-
-### Faculy List
-
-![Student Profile Page](/resetdb/Faculty_list.png)
-
-### Course Report
-
-![Student Profile Page](/resetdb/course_Report.png)
-
-### Grade Range
-
-![Student Profile Page](/resetdb/Grade_Range.png)
-
-### Gracemark List
-
-![Student Profile Page](/resetdb/Gracemark_list.png)
-
-### Final Result page for students
-
-![Student Profile Page](/resetdb/Result_page.png)
 
 
 
